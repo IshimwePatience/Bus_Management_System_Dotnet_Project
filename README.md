@@ -46,7 +46,7 @@ The system uses the following primary entities:
 - **Payments**: Transaction records
 - **Maintenance**: Bus maintenance history
 
-
+![[everGo-uml.png]]
 ## 🎨 UI/UX Design
 
 View the complete UI/UX design on Figma:
