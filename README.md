@@ -46,7 +46,11 @@ The system uses the following primary entities:
 - **Payments**: Transaction records
 - **Maintenance**: Bus maintenance history
 
-![[everGo-uml.png]]
+### Entity Relationship Diagram
+
+![Bus Management System ERD](./everGo-uml.png)
+
+*Figure: Entity Relationship Diagram showing the database structure and relationships between tables*
 ## 🎨 UI/UX Design
 
 View the complete UI/UX design on Figma:
