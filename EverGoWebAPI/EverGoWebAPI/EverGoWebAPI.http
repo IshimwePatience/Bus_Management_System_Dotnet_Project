@@ -1,0 +1,6 @@
+@EverGoWebAPI_HostAddress = http://localhost:5172
+
+GET {{EverGoWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

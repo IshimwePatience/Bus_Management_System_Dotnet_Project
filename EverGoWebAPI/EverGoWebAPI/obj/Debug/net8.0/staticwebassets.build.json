@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9U5mkpuFYLvDhSgDOG7J1DPM3VAjceVj7VnZuhF1Gnk=",
+  "Source": "EverGoWebAPI",
+  "BasePath": "_content/EverGoWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
